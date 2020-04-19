@@ -1,0 +1,54 @@
+fleet "Small Southern Merchants"
+	add variant 40
+		"Boxer"
+	add variant 10
+		"Boxer"
+		"Sparrow"
+	add variant 5
+		"Ketel"
+fleet "Large Southern Merchants"
+	add variant 20
+		"Bulk Boxer"
+		"Blackbird" 2
+	add variant 10
+		"Boxer" 2
+		"Frontier"
+		"Berserker" 2
+	add variant 2
+		"Newmaker"
+fleet "Human Miners"
+	add variant 3
+		"Harvester"
+fleet "Small Core Merchants"
+	add variant 30
+		"Boxer"
+	add variant 15
+		"Boxer"
+		"Wasp"
+	add variant 5
+		"Frontier"
+fleet "Large Core Merchants"
+	add variant 40
+		"Bulk Boxer"
+		"Splinter"
+	add variant 20
+		"Boxer" 2
+		"Frontier"
+		"Quicksilver" 2
+	add variant 5
+		"Newmaker"
+fleet "Small Northern Merchants"
+	add variant 30
+		"Boxer"
+	add variant 10
+		"Frontier"
+fleet "Large Northern Merchants"
+	add variant 40
+		"Bulk Boxer"
+		"Firebird"
+	add variant 20
+		"Boxer" 2
+		"Frontier"
+		"Corvette"
+	add variant 5
+		"Newmaker"
