@@ -33,7 +33,7 @@ outfit "Blaster Barrage"
 		"shield damage" 23.8
 		"hull damage" 18.7
 		"burst count" 8
-	description "Trading accuracy for long range coverage, the turret can engage target from a considerably longer range than the other blaster variants"
+	description "Trading accuracy for long range coverage, the turret can engage targets from a considerably longer range than the other blaster variants"
 
 outfit "Flak Cannon"
 	category "Secondary Weapons"
@@ -107,4 +107,4 @@ outfit "Gatling Turret"
 		"submunition" "gbullet"
 		"cluster"
 		"hit effect" "bullet impact"
-	description "As the turret weapon market becoming more dominated by energy type weapon, some merchants and pirates still prefer the comparatively small size and consistent damage output of the gatling turret"
+	description "Despite the turret weapon market becoming more and more dominated by energy type weapon, some merchants and pirates still prefer the comparatively small size and consistent damage output of the gatling turret"

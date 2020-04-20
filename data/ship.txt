@@ -106,7 +106,7 @@ ship "Frontier"
 	explode "large explosion" 12
 	"final explode" "final explosion medium"
 	
-	description "The Frontier main feature is it versatility, being able to haul cargo and be a maneuverable combat ship at the same time"
+	description "The Frontier's main feature is it versatility, being able to haul cargo and be a maneuverable combat ship at the same time"
 
 ship "Pathfinder"
 	sprite "ship/Pathfinder"
@@ -163,7 +163,7 @@ ship "Pathfinder"
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
 
-	description "Built for speed and nothing else, the Pathfinder specialize in chasing down target before they can pose a threat to the convoy it is protecting"
+	description "Built for speed and nothing else, the Pathfinder specializes in chasing down target before they can pose a threat to the convoy it is protecting"
 
 ship "Boxer"
 	sprite "ship/Boxer"
@@ -209,7 +209,7 @@ ship "Boxer"
 	explode "medium explosion" 15
 	"final explode" "final explosion small"
 
-	description "Although the Boxer have minimal defense, the amount of cargo it can hold for its price is rather impressive for any merchants looking for a cheap alternative to the stable freighter"
+	description "Although the Boxer has minimal defense, the amount of cargo it can hold for its price is rather impressive for any merchants looking for a cheap alternative to the stable freighter"
 
 ship "Bulk Boxer"
 	sprite "ship/Bulk Boxer"
@@ -323,7 +323,7 @@ ship "Newmaker"
 	engine 26 144
 	engine -26 144
 
-	description "Made to transport valuable cargo across hostile space, the Newmaker pack enough firepower to fend for its own."
-	description "However, this come at a cost that only few captains can afford to spend on"
+	description "Made to transport valuable cargo across hostile space, the Newmaker packs enough firepower to fend for its own."
+	description "	However, this comes at a cost that only few captains can afford to spend on"
 	
 	
