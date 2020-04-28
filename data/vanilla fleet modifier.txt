@@ -12,8 +12,9 @@ fleet "Large Southern Merchants"
 		"Blackbird" 2
 	add variant 10
 		"Boxer" 2
-		"Frontier"
-		"Berserker" 2
+		"Frontier (Laser)"
+		"Berserker"
+		"Pathfinder (Artillery)"
 	add variant 2
 		"Newmaker"
 fleet "Human Miners"
@@ -31,9 +32,10 @@ fleet "Large Core Merchants"
 	add variant 40
 		"Bulk Boxer"
 		"Splinter"
+		"Pathfinder"
 	add variant 20
 		"Boxer" 2
-		"Frontier"
+		"Frontier (Laser)
 		"Quicksilver" 2
 	add variant 5
 		"Newmaker"
@@ -46,9 +48,37 @@ fleet "Large Northern Merchants"
 	add variant 40
 		"Bulk Boxer"
 		"Firebird"
-	add variant 20
+	add variant 10
 		"Boxer" 2
-		"Frontier"
+		"Frontier (Laser)"
 		"Corvette"
+	add variant 10
+		"Boxer" 1
+		"Frontier"
+		"Pathfinder (Artillery)"
 	add variant 5
 		"Newmaker"
+
+fleet "Large Southern Pirates"
+	add variant 1
+		"Pathfinder (Artillery)"
+	add variant 1
+		"Pathfinder"
+	add variant 1
+		"Frontier"
+
+fleet "Small Core Pirates"
+	add variant 1
+		"Pathfinder"
+
+fleet "Large Core Pirates"
+	add variant 2
+		"Frontier (Laser)"
+	add variant 4
+		"Pathfinder (Artillery)"
+
+fleet "Small Northern Pirates"
+	add variant 1
+		"Frontier (Laser)"
+	add variant 1
+		"Frontier"
