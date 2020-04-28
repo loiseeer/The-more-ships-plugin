@@ -8,7 +8,7 @@ fleet "Small Southern Merchants"
 		"Ketel"
 fleet "Large Southern Merchants"
 	add variant 20
-		"Bulk Boxer (Laser)"
+		"Bulk Boxer"
 		"Blackbird" 2
 	add variant 10
 		"Boxer" 2
