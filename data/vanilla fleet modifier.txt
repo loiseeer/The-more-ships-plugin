@@ -53,11 +53,33 @@ fleet "Large Northern Merchants"
 		"Frontier (Laser)"
 		"Corvette"
 	add variant 10
-		"Boxer" 1
+		"Boxer"
 		"Frontier"
 		"Pathfinder (Artillery)"
 	add variant 5
 		"Newmaker (Proton)"
+
+fleet "Small Human Merchants (Hai)"
+	add variant 30
+		"Boxer"
+	add variant 5
+		"Frontier"
+	add variant 5
+		"Frontier (Hai)"
+
+fleet "Large Human Merchants (Hai)"
+	add variant 20
+		"Bulk Boxer"
+		"Headhunter (Hai)" 2
+	add variant 15
+		"Bulk Boxer (Hai)"
+		"Corvette (Hai)"
+		"Berserker" 2
+	add variant 3
+		"Newmaker (Hai)"
+	add variant 3
+		"Newmaker"
+		"Pathfinder" 2
 
 fleet "Large Southern Pirates"
 	add variant 1
