@@ -35,7 +35,7 @@ fleet "Large Core Merchants"
 		"Pathfinder"
 	add variant 20
 		"Boxer" 2
-		"Frontier (Laser)
+		"Frontier (Laser)"
 		"Quicksilver" 2
 	add variant 5
 		"Newmaker"
