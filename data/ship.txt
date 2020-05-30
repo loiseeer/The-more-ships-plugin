@@ -262,7 +262,7 @@ ship "Bulk Boxer"
 	explode "large explosion" 25
 	"final explode" "final explosion large"
 
-	description "A vastly improved version of the Boxer, the Bulk Boxer have a much higher turret mount count, making it a rather risky target for pirate"
+	description "A vastly improved version of the Boxer, the Bulk Boxer have a much higher turret mount count, making it a rather risky target for pirates"
 
 ship "Newmaker"
 	sprite "ship/Newmaker"
