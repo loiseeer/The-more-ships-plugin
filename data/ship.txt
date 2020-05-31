@@ -322,6 +322,10 @@ ship "Newmaker"
 	engine -49 136.5
 	engine 26 144
 	engine -26 144
+	explode "small explosion" 35
+	explode "medium explosion" 35
+	explode "large explosion" 20
+	"final explode" "final explosion large"
 
 	description "Made to transport valuable cargo across hostile space, the Newmaker packs enough firepower to fend for its own."
 	description "	However, this comes at a cost that only few captains can afford to spend on"
